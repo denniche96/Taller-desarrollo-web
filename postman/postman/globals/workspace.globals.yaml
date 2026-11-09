@@ -1,0 +1,5 @@
+name: Globals
+values:
+  - key: token
+    enabled: true
+    secret: true

@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: 5684eae2-a841-482c-8eab-587ec87172f4
+
+localResources:
+  collections:
+    - ../Cafeteria.postman_collection.json
